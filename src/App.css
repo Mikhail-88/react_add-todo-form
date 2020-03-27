@@ -1,3 +1,24 @@
+html,
+body,
+h1,
+input,
+button,
+table,
+p,
+select {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  font-size: 20px;
+}
+
 .App {
   text-align: center;
+}
+
+.App__heading {
+  text-transform: uppercase;
+  color: #3282b8;
 }
